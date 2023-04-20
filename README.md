@@ -12,7 +12,7 @@
 <ul>
 <li>Create the Category and Subcategory DataFrames (30 points)
 <li>Create the Campaign DataFrame (30 points)
-<li>Create the Contacts DataFrame (15 points)
+<li>Create the Contacts DataFrame (15 points) - Option 1: Use Python dictionary methods
 <li>Create the Crowdfunding Database (25 points)
 </li>
 </ul>
