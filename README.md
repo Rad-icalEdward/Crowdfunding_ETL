@@ -4,7 +4,6 @@
 <strong>FILES</strong>
 <ul>
 <li>ETL_Mini_Project_JBegley_VStyles.ipynb (<em>File</em>)
-<li>.ipynb_checkpoints (<em>Directory</em>) - ETL_Mini_Project_Starter_Code-checkpoint.ipynb (<em>File</em>)
 <li>Resources (<em>Directory</em>) - contacts.csv (<em>File</em>), contacts.xlsx (<em>File</em>), crowdfunding.csv (<em>File</em>), crowdfunding.xlsx (<em>File</em>)</li>
 </ul>
 
