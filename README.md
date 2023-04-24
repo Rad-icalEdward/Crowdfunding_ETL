@@ -18,6 +18,11 @@
 </ul>
 
 <strong>THE STEPS WE TOOK</strong><br>
+<ul>
+<li>The process was mostly straightforward with no major bugs.
+<li>We noticed one error when creating the SQL schema, which was that the final campaign file had the wrong columns.
+<li>We also had issues with merging files in GitHub, which we later resolved.
+</ul>
 
 PART 1: Create the Category and Subcategory DataFrames
 
