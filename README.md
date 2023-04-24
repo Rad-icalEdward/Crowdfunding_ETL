@@ -16,3 +16,6 @@
 <li>Create the Crowdfunding Database (25 points)
 </li>
 </ul>
+
+<strong>ERD</strong>
+![crowdfunding_ERD](https://user-images.githubusercontent.com/121570218/234078195-9e6abb95-5815-4d32-bd8c-fe145a7ec9e9.png)
