@@ -17,5 +17,7 @@
 </li>
 </ul>
 
+<strong>THE STEPS WE TOOK</strong><br>
+
 <strong>ERD</strong><br>
 ![crowdfunding_ERD](https://user-images.githubusercontent.com/121570218/234078195-9e6abb95-5815-4d32-bd8c-fe145a7ec9e9.png)
