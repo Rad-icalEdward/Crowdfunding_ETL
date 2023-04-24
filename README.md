@@ -4,7 +4,7 @@
 <strong>FILES</strong>
 <ul>
 <li>ETL_Mini_Project_JBegley_VStyles.ipynb (<em>File</em>)
-<li>Resources (<em>Directory</em>) - contacts.csv (<em>File</em>), contacts.xlsx (<em>File</em>), crowdfunding.csv (<em>File</em>), crowdfunding.xlsx (<em>File</em>)</li>
+<li>Resources (<em>Directory</em>) - contacts.csv (<em>File</em>), contacts.xlsx (<em>File</em>), crowdfunding.csv (<em>File</em>), crowdfunding.xlsx (<em>File</em>), category.csv (<em>File</em>), subcategory.csv (<em>File</em>), campaign.csv (<em>File</em>)</li>
 </ul>
 
 <strong>REQUIREMENTS</strong>
